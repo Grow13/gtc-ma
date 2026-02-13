@@ -17,12 +17,10 @@ Plataformas con error: IngentaConnect, Bookwire
 - [English](GTC-MA_Project_English.txt)
 
 ### Contacto
-Jeremías Oberschelp – jeremias.oberschelp@[domain.com]
+Jeremías Oberschelp – buenosaliensjero@hotmail.com
 
 ### Redes
-- GitHub: https://github.com/jeremiasoberschelp/gtc-ma
-- YouTube: https://youtube.com/@GTC-MA
-- Hashtag: #CorregirMetadatos #FixMetadata
+- GitHub: https://github.com/Grow13/gtc-ma
 
 ### Cómo reportar un error
 Próximamente: formulario público y plantillas.
