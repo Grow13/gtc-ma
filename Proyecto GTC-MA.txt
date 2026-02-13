@@ -1,0 +1,203 @@
+📘 PROYECTO GTC-MA
+
+Grupo de Trabajo para la Corrección de Metadatos Académicos
+
+Fundador: Jeremías Oberschelp
+Fecha de inicio: 12 de febrero de 2026
+Versión del documento: 1.0
+Estado: Activo
+
+---
+
+ÍNDICE
+
+1. Justificación
+2. Objetivos
+3. Estructura operativa
+4. Protocolo de acción
+5. Caso inaugural: Modeling Love Dynamics
+6. Evidencia documentada
+7. Próximos pasos
+8. Anexos
+
+---
+
+1. JUSTIFICACIÓN
+
+Los metadatos académicos se han convertido en un cementerio de errores silenciosos.
+Un registro contaminado se replica en decenas de catálogos, volviendo invisible el conocimiento o distorsionándolo.
+
+No existe un canal ciudadano formal para reportar y exigir corrección.
+El investigador individual es ignorado. El grupo institucional, no.
+
+GTC-MA nace para auditar, documentar y corregir errores graves en la infraestructura bibliográfica mundial.
+
+---
+
+2. OBJETIVOS
+
+General:
+
+Establecer un mecanismo replicable, público y efectivo para la detección y corrección de errores en metadatos bibliográficos académicos.
+
+Específicos:
+
+1. Documentar casos de contaminación por ISBN, plataforma y tipo de error.
+2. Intervenir sistemáticamente ante editoriales, bibliotecas y agregadores.
+3. Exigir corrección con plazos y verificación pública.
+4. Visibilizar la negligencia en el mantenimiento de catálogos.
+5. Proponer estándares mínimos de control de calidad en metadatos.
+
+---
+
+3. ESTRUCTURA OPERATIVA
+
+Rol Titular Función
+Coordinador general Jeremías Oberschelp Estrategia, vocería, seguimiento
+Analista de metadatos Por designar Verifica errores, coteja fuentes, documenta evidencia
+Redactor técnico Por designar Prepara cartas, informes, plantillas
+Difusión Por designar Comunicación académica y redes
+Asesor bibliotecario Por designar Respaldo normativo
+
+Inicio unipersonal. Expansión por convocatoria abierta.
+
+---
+
+4. PROTOCOLO DE ACCIÓN
+
+Fase 1 – Detección
+
+· Identificar ISBN, plataforma, tipo de error.
+· Capturar evidencia (pantallazo, URL, registro correcto de contraste).
+
+Fase 2 – Notificación
+
+· Envío de carta formal (plantilla por tipo de destinatario).
+· Plazo: 10 días hábiles para acuse, 30 para corrección.
+
+Fase 3 – Escalamiento
+
+· Sin respuesta: reenvío con copia a superiores.
+· Publicación del caso en repositorio público.
+
+Fase 4 – Verificación y cierre
+
+· Confirmación de corrección.
+· Actualización del estado del caso.
+· Reconocimiento a la entidad si hubo diligencia.
+
+---
+
+5. CASO INAUGURAL: Modeling Love Dynamics
+
+Título: Modeling Love Dynamics
+Autores: S. Rinaldi, F. Della Rossa, F. Dercole, A. Gragnani, P. Landi
+Editorial: World Scientific, 2015
+ISBN correcto (tapa dura): 978-981-4696-31-9
+ISBN afectado: 978-981-4696-33-3
+Plataformas con error: IngentaConnect, Bookwire
+
+Error detectado:
+
+· El registro con ISBN 978-981-4696-33-3 contiene la tabla de contenidos de un libro completamente distinto sobre relaciones EE.UU.-Japón.
+· En IngentaConnect, la búsqueda por ISBN arroja 0 resultados (el libro es invisible).
+
+Registros correctos verificados:
+
+· World Scientific Connect: ✅ correcto
+· British Library: ✅ correcto (ISBN 978-981-4696-31-9)
+
+---
+
+6. EVIDENCIA DOCUMENTADA
+
+Fecha Evidencia Archivo
+12 feb 2026 Carta a British Library carta-bl.pdf
+12 feb 2026 Respuesta de Sam Ziesler (BL) respuesta-sam.png
+13 feb 2026 Búsqueda en Ingenta: 0 resultados busqueda-ingenta-0.jpg
+13 feb 2026 Carta a Scott Winner (CEO Ingenta) carta-scott-winner.pdf
+13 feb 2026 Envío a info, sales, marketing de Ingenta envio-ingenta.png
+
+Toda la evidencia está disponible en el repositorio público.
+
+---
+
+7. PRÓXIMOS PASOS
+
+Fecha Acción
+16 feb 2026 Reenvío a Ingenta si no hay respuesta
+18 feb 2026 Publicación del caso en repositorio público
+20 feb 2026 Convocatoria abierta para nuevos miembros
+23 feb 2026 Contacto a Bookwire
+28 feb 2026 Primer informe mensual
+
+---
+
+8. ANEXOS
+
+A. Plantilla de carta a editorial
+
+Asunto: Metadata correction – ISBN [XXXXX]
+
+Cuerpo:
+
+To whom it may concern,
+
+I am reporting a critical metadata error affecting the following title:
+
+· ISBN: [XXXXX]
+· Title: [XXXXX]
+· Error: [descripción]
+
+Correct record verified at: [URL]
+
+I request immediate correction and confirmation.
+
+--
+[Nombre]
+GTC-MA
+
+---
+
+B. Plantilla de carta a biblioteca
+
+Asunto: Metadata correction – Catalogue record ISBN [XXXXX]
+
+Cuerpo:
+
+Dear Cataloguing Team,
+
+The record for ISBN [XXXXX] in your catalogue contains an error: [descripción].
+
+The correct metadata can be verified at: [URL]
+
+Please correct this record and confirm once done.
+
+--
+[Nombre]
+GTC-MA
+
+---
+
+C. Contactos útiles
+
+Entidad Contacto
+British Library metadata@bl.uk
+World Scientific formulario web
+Ingenta (CEO) scott.winner@ingenta.com
+Ingenta (otros) info@ingenta.com, sales@ingenta.com, marketing@ingenta.com
+Bookwire pendiente de investigación
+
+---
+
+✅ FIRMA
+
+Jeremías Oberschelp
+Fundador y Coordinador General
+Grupo de Trabajo para la Corrección de Metadatos Académicos (GTC-MA)
+13 de febrero de 2026
+
+---
+
+📍 Repositorio público: [pendiente de creación]
+📧 Contacto: buenosaliensjero@hotmail.com
