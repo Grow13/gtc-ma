@@ -1,0 +1,206 @@
+Por supuesto, Jeremías. Aquí tienes el archivo de texto completo y listo con todo el proyecto GTC-MA en inglés.
+Solo tienes que copiar el contenido, pegarlo en un bloc de notas o documento de texto, y guardarlo con el nombre que prefieras (por ejemplo: GTC-MA_Project.txt).
+
+---
+
+```
+=============================================
+   GTC-MA PROJECT
+   Academic Metadata Correction Working Group
+=============================================
+
+Founder: Jeremías Oberschelp
+Contact email: jeremias.oberschelp@[domain.com]
+Start date: February 12, 2026
+Version: 1.0
+Status: Active
+
+=============================================
+INDEX
+=============================================
+
+1. Justification
+2. Objectives
+3. Operational structure
+4. Action protocol
+5. Inaugural case: Modeling Love Dynamics
+6. Documented evidence
+7. Next steps
+8. Annexes
+
+=============================================
+1. JUSTIFICATION
+=============================================
+
+Academic metadata has become a graveyard of silent errors.
+A single corrupted record replicates across dozens of catalogs,
+making knowledge invisible or distorted.
+
+There is no formal citizen channel to report and demand correction.
+An individual researcher is ignored. An institutional group is not.
+
+GTC-MA is born to audit, document, and correct serious errors
+in the global bibliographic infrastructure.
+
+=============================================
+2. OBJECTIVES
+=============================================
+
+General:
+To establish a replicable, public, and effective mechanism
+for detecting and correcting errors in academic bibliographic metadata.
+
+Specific:
+1. Document cases of contamination by ISBN, platform, and error type.
+2. Intervene systematically with publishers, libraries, and aggregators.
+3. Demand correction with deadlines and public verification.
+4. Raise awareness about negligence in catalog maintenance.
+5. Propose minimum quality control standards for metadata.
+
+=============================================
+3. OPERATIONAL STRUCTURE
+=============================================
+
+Role                  | Holder               | Function
+----------------------|----------------------|------------------------------------
+General Coordinator   | Jeremías Oberschelp  | Strategy, spokesperson, follow-up
+Metadata Analyst      | To be appointed      | Verifies errors, documents evidence
+Technical Writer      | To be appointed      | Prepares letters, reports, templates
+Outreach              | To be appointed      | Academic communication and social media
+Library Advisor       | To be appointed      | Normative support
+
+One-person start. Open call for expansion.
+
+=============================================
+4. ACTION PROTOCOL
+=============================================
+
+Phase 1 – Detection
+- Identify ISBN, platform, error type.
+- Capture evidence (screenshot, URL, correct reference record).
+
+Phase 2 – Notification
+- Send formal letter (template by recipient type).
+- Deadline: 10 business days for acknowledgment, 30 for correction.
+
+Phase 3 – Escalation
+- No response: resend with copy to superiors.
+- Publish case in public repository.
+
+Phase 4 – Verification and closure
+- Confirm correction.
+- Update case status.
+- Acknowledge the entity if diligent.
+
+=============================================
+5. INAUGURAL CASE: Modeling Love Dynamics
+=============================================
+
+Title:      Modeling Love Dynamics
+Authors:    S. Rinaldi, F. Della Rossa, F. Dercole, A. Gragnani, P. Landi
+Publisher:  World Scientific, 2015
+Correct ISBN (hardcover):   978-981-4696-31-9
+Affected ISBN:               978-981-4696-33-3
+Platforms with error:        IngentaConnect, Bookwire
+
+Detected error:
+- The record with ISBN 978-981-4696-33-3 contains the table of contents
+  of a completely different book on US-Japan relations.
+- On IngentaConnect, searching by ISBN returns 0 results (the book is invisible).
+
+Verified correct records:
+- World Scientific Connect: correct
+- British Library: correct (ISBN 978-981-4696-31-9)
+
+=============================================
+6. DOCUMENTED EVIDENCE
+=============================================
+
+Date        | Evidence                          | File
+------------|-----------------------------------|--------------------
+Feb 12, 2026| Letter to British Library         | letter-bl.pdf
+Feb 12, 2026| Reply from Sam Ziesler (BL)       | sam-reply.png
+Feb 13, 2026| Ingenta search: 0 results         | ingenta-search-0.jpg
+Feb 13, 2026| Letter to Scott Winner (CEO)      | letter-scott-winner.pdf
+Feb 13, 2026| Sent to info, sales, marketing    | ingenta-sent.png
+
+All evidence is available in the public repository.
+
+=============================================
+7. NEXT STEPS
+=============================================
+
+Date        | Action
+------------|----------------------------------------
+Feb 16, 2026| Resend to Ingenta if no response
+Feb 18, 2026| Publish case in public repository
+Feb 20, 2026| Open call for new members
+Feb 23, 2026| Contact Bookwire
+Feb 28, 2026| First monthly report
+
+=============================================
+8. ANNEXES
+=============================================
+
+A. Publisher letter template
+
+Subject: Metadata correction – ISBN [XXXXX]
+
+To whom it may concern,
+
+I am reporting a critical metadata error affecting the following title:
+- ISBN: [XXXXX]
+- Title: [XXXXX]
+- Error: [description]
+
+Correct record verified at: [URL]
+
+I request immediate correction and confirmation.
+
+--
+Jeremías Oberschelp
+GTC-MA
+
+B. Library letter template
+
+Subject: Metadata correction – Catalogue record ISBN [XXXXX]
+
+Dear Cataloguing Team,
+
+The record for ISBN [XXXXX] in your catalogue contains an error: [description].
+
+The correct metadata can be verified at: [URL]
+
+Please correct this record and confirm once done.
+
+--
+Jeremías Oberschelp
+GTC-MA
+
+C. Useful contacts
+
+Entity            | Contact
+------------------|-----------------------------------
+British Library   | metadata@bl.uk
+World Scientific  | web form (www.worldscientific.com/contactus)
+Ingenta (CEO)     | scott.winner@ingenta.com
+Ingenta (others)  | info@ingenta.com, sales@ingenta.com, marketing@ingenta.com
+Bookwire          | pending investigation
+
+=============================================
+SOCIAL MEDIA & REPOSITORIES
+=============================================
+
+GitHub:     https://github.com/jeremiasoberschelp/gtc-ma
+Repository: Public case files, evidence, templates, and updates
+
+=============================================
+SIGNATURE
+=============================================
+
+Jeremías Oberschelp
+Founder and General Coordinator
+Academic Metadata Correction Working Group (GTC-MA)
+February 13, 2026
+
+============================
