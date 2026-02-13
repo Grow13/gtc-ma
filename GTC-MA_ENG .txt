@@ -1,9 +1,3 @@
-Por supuesto, Jeremías. Aquí tienes el archivo de texto completo y listo con todo el proyecto GTC-MA en inglés.
-Solo tienes que copiar el contenido, pegarlo en un bloc de notas o documento de texto, y guardarlo con el nombre que prefieras (por ejemplo: GTC-MA_Project.txt).
-
----
-
-```
 =============================================
    GTC-MA PROJECT
    Academic Metadata Correction Working Group
@@ -204,3 +198,92 @@ Academic Metadata Correction Working Group (GTC-MA)
 February 13, 2026
 
 ============================
+# Academic Metadata Correction Working Group
+
+### Mission
+To audit, document, and correct serious errors in the global bibliographic infrastructure.
+
+---
+
+## 📌 Inaugural Case: *Modeling Love Dynamics*
+
+**Title:** Modeling Love Dynamics  
+**Authors:** S. Rinaldi, F. Della Rossa, F. Dercole, A. Gragnani, P. Landi  
+**Publisher:** World Scientific, 2015  
+**Correct ISBN (hardcover):** 978-981-4696-31-9  
+**Affected ISBN:** 978-981-4696-33-3  
+**Platforms with error:** IngentaConnect, Bookwire
+
+---
+
+### 🔍 Case Summary
+
+In February 2026, a record with ISBN **978-981-4696-33-3** was found on **IngentaConnect** containing a completely wrong table of contents. It belonged to a book on US-Japan security relations, not the actual book.
+
+A correction process was initiated with:
+- British Library
+- World Scientific
+- IngentaConnect (including direct contact with the CEO)
+- Bookwire
+
+---
+
+### 📂 Status by Platform
+
+| Platform | Contact | Response | Status |
+|------------|----------|-----------|--------|
+| **British Library** | Sam Ziesler | ✅ Replied | Correct. No error in BL. |
+| **World Scientific** | — | ✅ Verified | ISBN and metadata correct. |
+| **IngentaConnect** | Paul Overend | ✅ Replied | The book should not be on Ingenta. Requested deletion of phantom record. |
+| **Bookwire** | info@, atendimento@ | ⏳ Pending | No response yet. |
+
+---
+
+### 🧠 Key Findings
+
+- The record with ISBN 978-981-4696-33-3 **did exist** on IngentaConnect.
+- It was personally seen by the GTC-MA team.
+- It contained the table of contents of a completely different book.
+- Ingenta confirmed that World Scientific **does not subscribe** to their platform, so no record of this book should exist there.
+- The fact that it no longer appears in searches suggests it was **deleted after the complaint**.
+- Internet Archive confirms general captures of Ingenta up to February 2026, though not of the exact URL.
+
+---
+
+### 📸 Documented Evidence
+
+| Date | Evidence | File |
+|-------|-----------|---------|
+| Feb 12, 2026 | Letter to British Library | `cases/001/bl-initial.pdf` |
+| Feb 12, 2026 | Reply from Sam Ziesler | `evidence/001/sam-reply.png` |
+| Feb 13, 2026 | Letter to Scott Winner (CEO Ingenta) | `cases/001/ceo-ingenta.pdf` |
+| Feb 13, 2026 | First reply from Paul Overend | `evidence/001/paul-1.png` |
+| Feb 13, 2026 | Ingenta search: 0 results | `evidence/001/ingenta-search-0.jpg` |
+| Feb 13, 2026 | Internet Archive: captures until Feb 2026 | `evidence/001/wayback-machine.jpg` |
+| Feb 13, 2026 | Second reply from Paul Overend | `evidence/001/paul-2.png` |
+| Feb 13, 2026 | Final letter to Paul | `cases/001/paul-final.md` |
+
+---
+
+### 📌 Next Steps
+
+- Wait for final confirmation from Paul Overend regarding permanent deletion.
+- Resend to Bookwire if no response within 48 hours.
+- Open call for new cases.
+- Publish first monthly report (Feb 28, 2026).
+
+---
+
+### 📬 Contact
+
+**Jeremías Oberschelp**  
+Founder and General Coordinator  
+GTC-MA – Academic Metadata Correction Working Group  
+Email: buenosaliensjero@hotmail.com  
+GitHub: https://github.com/jeremiasoberschelp/gtc-ma  
+
+---
+
+### 🧾 License
+
+This repository is publicly accessible. Documents may be freely used for academic and research purposes, with proper attribution.
